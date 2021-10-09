@@ -9,4 +9,5 @@
     :components
 	    ((:file "packages")
 	     (:file "ast")
+	     (:file "parser")
 	     (:file "compiler")))))

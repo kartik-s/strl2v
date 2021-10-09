@@ -1,3 +1,2 @@
 (defpackage :strl2v
-  (:use :common-lisp)
-  (:export :compile-program))
+  (:use :common-lisp))
