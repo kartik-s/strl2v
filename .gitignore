@@ -1,0 +1,5 @@
+# Emacs backup files
+*.*~
+
+# Compiled Lisp files
+*.fasl
