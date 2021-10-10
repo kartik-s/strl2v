@@ -10,4 +10,5 @@
 	    ((:file "packages")
 	     (:file "ast")
 	     (:file "parser")
+	     (:file "kernel-ir")
 	     (:file "compiler")))))
