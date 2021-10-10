@@ -11,4 +11,5 @@
 	     (:file "ast")
 	     (:file "parser")
 	     (:file "kernel-ir")
+	     (:file "frontend")
 	     (:file "compiler")))))

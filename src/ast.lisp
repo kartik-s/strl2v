@@ -50,3 +50,7 @@
   label)
 (defstruct (await-stmt (:include ast-node) (:copier nil))
   signal)
+(defstruct (abort-stmt (:include ast-node) (:copier nil))
+  signal
+  body)
+(defstruct (halt-stmt (:include ast-node) (:copier nil)))
